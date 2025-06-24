@@ -1,0 +1,17 @@
+AVISO IMPORTANTE
+
+Esta aplicacion desarrollada con python permite:
+- Descargar archivos automaticamente a la carpeta seleccionada.
+- Apagar, reiniciar o bloquear el equipo de forma remota.
+- Comunicarse con un servidor para recibir comandos.
+
+Al instalar y usar esta aplicacion, usted acepta estos riesgos y autoriza estas acciones.
+
+Si no esta de acuerdo, cancele la instalacion.
+
+Si WindowsDefender o su antivirus bloquea la instalacion y desea instalar el programa 
+debe permitirlo manualmente.
+
+Contacto de desarrollador:
+Adrian.Silvasantiste@tecsup.edu.pe
+ 
